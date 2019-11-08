@@ -1,6 +1,6 @@
 # QR Code Example
 
-> Generate QR Code from Buffer.
+> Generate QR Code for a URL string.
 
 ### Scripts
 
